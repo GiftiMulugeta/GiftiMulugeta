@@ -6,7 +6,7 @@ Software Engineering student at Addis Ababa University
 
 
 
-Here are some ideas to get you started:
+About me...
 
 - 🔭 I’m currently working on Web Development
 - 🌱 I’m currently learning Backend Development,JavaScript...
