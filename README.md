@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Gifti
+### Hi there 👋 I'm Gifti Mulugeta
 
 
 
-  Student at Addis Ababa University
+Software Engineer
